@@ -1,0 +1,4 @@
+﻿/.vs
+bin/
+obj/
+/src/WebApi/Logger.WebApi/Properties/PublishProfiles/FolderProfile.pubxml.user
